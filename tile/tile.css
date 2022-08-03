@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    outline: none;
+}
+
+.dashboard {
+    margin: 78px;
+}
+
+.task_show {
+    margin: 78px;
+    margin-top: -55px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #007FFF;
+}
+
+.table {
+    color: #808080;
+}
+
+.block4 {
+    height: 250px;
+    width: 380px;
+    /* left: 314px;
+    top: 231px; */
+    /* margin-left: 79px; */
+    /* margin-left: 90px; */
+    border-radius: 10px;
+    margin-top: -250px;
+    background: #FFFFFF;
+    border: 1px solid #D8D8D8;
+    border-radius: 10px;
+}
+
+.block {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+
+}
+
+.block1 {
+    height: 250px;
+    width: 380px;
+    left: 314px;
+    top: 231px;
+    margin-left: 79px;
+    border-radius: 10px;
+    margin-top: -30px;
+    background: #FFFFFF;
+    border: 1px solid #D8D8D8;
+    border-radius: 10px;
+}
+
+
+.h2 {
+    /* position: absolute; */
+    /* left: 110px; */
+    margin-left: 30px;
+    padding-top: 10px;
+    /* top: 255px; */
+    /* top: 230px; */
+}
+
+.desciption {
+    /* position: absolute; */
+    margin-left: 30px;
+    padding-top: 10px;
+    color: #808080;
+}
+
+.date {
+    font-weight: bold;
+    /* position: absolute; */
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.time {
+    /* position: absolute; */
+    font-weight: bold;
+    margin-left: 125px;
+    margin-top: -19px
+}
+
+.not_done {
+    color: #FF3F3F;
+    font-weight: bold;
+    /* position: absolute; */
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+
+body {
+    background-color: #f4f5fe;
+}
+
+.done {
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.done1 {
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.processing {
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 20px;
+    color: #007FFF;
+}
+
+.done2 {
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.processing1{
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 20px;
+    color: #007FFF;
+}
